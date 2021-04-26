@@ -118,6 +118,12 @@ a:hover{
 
 
         }
+ @media ( max-width: 580px){
+            .container {
+                margin-top: 129px;
+            }
+
+        }
  @media ( max-width: 360px){
             h1 {
                 font-size: 1.65rem;
