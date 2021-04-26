@@ -122,9 +122,12 @@ a:hover{
             .container {
                 margin-top: 129px;
             }
+     .contact-section{
+                height: 55vh;
+            }
 
         }
- @media ( max-width: 360px){
+ @media ( max-width: 350px){
             h1 {
                 font-size: 1.65rem;
             }
